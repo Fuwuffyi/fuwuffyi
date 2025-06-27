@@ -1,4 +1,4 @@
-<h2 align="left">My name is Fuwuffy and... I don't know man I'm just a dog from Italy.</h2>
+<h3 align="left">My name is Fuwuffy and... I don't know man I'm just a <s>Dog</s> Dragon from Italy.</h3>
 
 ###
 
